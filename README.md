@@ -1,1 +1,1 @@
-# multithreading
+Gedyel Kerllon Ferreira Duarte
